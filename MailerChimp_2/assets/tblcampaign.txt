@@ -1,0 +1,13 @@
+cpnNo		- bigint	- campaign no
+cpnName		- varchar	- campaign user readable name
+cpnIsCurrent	- int		- is the campaign one of the top currently sent
+cpnIsScheduled	- int		- is the campaign scheduled for sending
+cpnScheduledDate- date		- campaign's scheduled date
+cpnScheduledTime- time		- campaign's scheduled time
+cpnIsDelivered	- int		- has the campaign been delivered before
+cpnDeliveredDate- date		- when was it delivered
+cpnDeliveredTime- time		- what time was it delivered
+cpnRecipients	- double	- total number of recipients sent
+cpnOpens	- double	- number of email opened by recipients
+cpnClicks	- double 	- number of email clicked by recipients
+cpnIsDeleted	- int		- is the campaign deleted?

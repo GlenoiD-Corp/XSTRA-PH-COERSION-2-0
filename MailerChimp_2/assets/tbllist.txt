@@ -1,0 +1,7 @@
+lstNo		- int	  	- primary index; for a special list entry
+lstName		- varchar	- list name
+lstNameAppeared - varchar 	- list appeared from (mockup) ?
+lstEmailAppeared- varchar 	- list email from (mockup) ?
+lstDateCreated  - date/time	- date list was created
+lstTimeCreated	- date/time	- time list was created
+lstLastModified - date/time	- date and time when list configuration was changed

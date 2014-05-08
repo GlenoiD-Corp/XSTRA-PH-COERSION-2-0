@@ -1,0 +1,7 @@
+grpNo		- int	  	- primary index; for a special list entry
+grpName		- varchar	- group name
+grpNameAppeared - varchar 	- group appeared from (mockup) ?
+grpEmailAppeared- varchar 	- group email from (mockup) ?
+grpDateCreated  - date		- date group was created
+grpTimeCreated	- date		- time group was created
+grpLastModified - date/time	- date and time when group configuration was changed

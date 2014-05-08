@@ -1,0 +1,10 @@
+setNo 		  - int		- an auto incremental primary number to track each setup made
+setOutboundServer - varchar	- setup server saved
+setPort		  - int		- setup port number
+setFrom 	  - varchar	- user-friendly name of where the email came from
+setPickupFolder   - varchar	- directory where the eml files will be saved for sending
+setEmail 	  - varchar	- email used for sending 
+setFooter 	  - varchar	- footer written below each email
+setDate		  - date/time	- date when the setup was configured
+setTime		  - date/time	- time when the setup was configured
+

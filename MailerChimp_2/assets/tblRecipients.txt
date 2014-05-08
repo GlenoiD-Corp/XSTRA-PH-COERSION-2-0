@@ -1,0 +1,8 @@
+rptNo		- int		- primary key; unique number for each email
+rptFName	- text		- first name
+rptLName	- text		- last name
+rptEmail	- varchar	- email
+rptList		- varchar	- one list that recipient belongs to
+rptGroups	- varchar	- multiple groups; slash-delimited
+rptIsActive	- int		- 1 or 0; active or not
+rptDateAdded	- date		- date the recipient's email was encoded
